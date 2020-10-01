@@ -25,6 +25,7 @@ body{
     margin: 40px;
     background: #060c21;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .box:hover{
